@@ -9,7 +9,7 @@ This is a small data science analysis project based on the WHO Suicide Statistic
 
 ## 🔗 Kaggle Version
 You can view the full notebook on Kaggle here:  
-👉 [[Link to your Kaggle notebook](https://www.kaggle.com/code/twodimensions/suicide-rates-analysis)]
+👉 [Link to your Kaggle notebook](https://www.kaggle.com/code/twodimensions/suicide-rates-analysis)
 
 ## 🛠 Tools Used
 - Python
